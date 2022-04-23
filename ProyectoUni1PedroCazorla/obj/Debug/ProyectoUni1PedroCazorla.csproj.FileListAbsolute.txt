@@ -1,0 +1,9 @@
+C:\Users\chedraui\Documents\visual studio\Tercer Semestre\ProyectoUni1PedroCazorla\ProyectoUni1PedroCazorla\bin\Debug\ProyectoUni1PedroCazorla.exe.config
+C:\Users\chedraui\Documents\visual studio\Tercer Semestre\ProyectoUni1PedroCazorla\ProyectoUni1PedroCazorla\bin\Debug\ProyectoUni1PedroCazorla.exe
+C:\Users\chedraui\Documents\visual studio\Tercer Semestre\ProyectoUni1PedroCazorla\ProyectoUni1PedroCazorla\bin\Debug\ProyectoUni1PedroCazorla.pdb
+C:\Users\chedraui\Documents\visual studio\Tercer Semestre\ProyectoUni1PedroCazorla\ProyectoUni1PedroCazorla\obj\Debug\ProyectoUni1PedroCazorla.csprojAssemblyReference.cache
+C:\Users\chedraui\Documents\visual studio\Tercer Semestre\ProyectoUni1PedroCazorla\ProyectoUni1PedroCazorla\obj\Debug\ProyectoUni1PedroCazorla.Form1.resources
+C:\Users\chedraui\Documents\visual studio\Tercer Semestre\ProyectoUni1PedroCazorla\ProyectoUni1PedroCazorla\obj\Debug\ProyectoUni1PedroCazorla.Properties.Resources.resources
+C:\Users\chedraui\Documents\visual studio\Tercer Semestre\ProyectoUni1PedroCazorla\ProyectoUni1PedroCazorla\obj\Debug\ProyectoUni1PedroCazorla.csproj.GenerateResource.cache
+C:\Users\chedraui\Documents\visual studio\Tercer Semestre\ProyectoUni1PedroCazorla\ProyectoUni1PedroCazorla\obj\Debug\ProyectoUni1PedroCazorla.exe
+C:\Users\chedraui\Documents\visual studio\Tercer Semestre\ProyectoUni1PedroCazorla\ProyectoUni1PedroCazorla\obj\Debug\ProyectoUni1PedroCazorla.pdb
